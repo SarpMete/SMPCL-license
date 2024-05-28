@@ -1,0 +1,36 @@
+***************************************
+               SMPCL 1.0 
+  (SarpMetePurple Conditions License)
+***************************************
+
+This license governs the terms and conditions for the use, modification, and distribution of the project developed by SarpMetePurple. Please review the following sections carefully before utilizing or sharing the project.
+
+1. **Conditions**:
+
+   - **Credit Us**: You must give appropriate credit to SarpMetePurple and provide a prominent link to the original source of the project on the platform that you took it from (eg: GitHub/replit ). Additionally, include this `license.txt` file with any distribution or modification of the project.
+   
+   - **Modifications**: Any modifications made to the project must be documented in a new file named `CHANGES`, clearly outlining the alterations made to the original code.
+   
+   - **Redistribution**: You are permitted to include the code of this project in your own projects, provided that you adhere to the same terms and conditions of this license. However, you are prohibited from claiming the code as your own.
+   
+   - **Forking**: You have the right to fork (create a copy) of this project on platforms like GitHub, given that you comply with all other conditions of this license.
+   
+   - **Commercial Use**: You are allowed to utilize this project for commercial purposes, given that you comply with all other conditions of this license.
+   
+   - **Same License Requirement**: If you distribute or modify this project, you must include this `license.txt` file, and any derivatives must be distributed under the same license terms.
+
+2. **Restrictions**:
+
+   - You may not use the code of this project as the sole basis for a new project without making substantial modifications.
+   
+   - You may not use the name of SarpMetePurple, or any related entities, for endorsement without prior written permission.
+
+3. **Termination**:
+
+   - This license will automatically terminate if you fail to comply with its terms and conditions. Upon termination, you must cease all use, distribution, and modification of the project.
+
+4. **Contact**:
+
+   - For inquiries or permissions concerning this license, please contact SarpMetePurple at Sarpmetepurple@outlook.com. 
+     Note: Responses may not be frequent under this contact.
+
