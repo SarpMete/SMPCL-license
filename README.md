@@ -1,4 +1,4 @@
-# SMPCL-license
+# SMPCL-license (SarpMetepurple conditions license)
 this is our lisence that we will use in our
 projects
 
