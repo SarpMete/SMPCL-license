@@ -4,4 +4,5 @@ projects
 
 # permission
 you **DO NOT HAVE THE PERMISSION TO
-USE THIS LICENSE AT ALL**
+USE THIS LICENSE unless you redistribute
+our code**
